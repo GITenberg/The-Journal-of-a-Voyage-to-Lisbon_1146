@@ -1,0 +1,41 @@
+_repo: The-Journal-of-a-Voyage-to-Lisbon_1146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Keyber, Conny
+    - Vinegar, Hercules
+    - Gualterus, Petrus
+    - Drawcansir, Alexander, Sir
+    - Trottplaid, John
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: Best known for his novels Tom Jones and Amelia, Henry Fielding was also
+  an intrepid traveler and explorer who used his journeys around the world as fodder
+  for his sprawling, picaresque works of fiction. Journal of a Voyage to Lisbon, Volume
+  I collects Fielding's impressions of his trip to Portugal's capital. A must-read
+  for fans of lively travel writing.
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English Channel -- Description and travel'
+- !lcsh 'Fielding, Henry, 1707-1754 -- Diaries'
+- !lcsh 'Fielding, Henry, 1707-1754 -- Travel -- Atlantic Ocean'
+- !lcsh 'Atlantic Ocean -- Description and travel'
+- !lcsh 'Ocean travel -- History -- 18th century'
+- !lcsh 'Fielding, Henry, 1707-1754 -- Travel -- English Channel'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 18th century -- Diaries'
+- GITenberg
+title: The Journal of a Voyage to Lisbon
+url: http://www.gutenberg.org/ebooks/1146
